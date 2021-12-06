@@ -1,0 +1,53 @@
+.App {
+  text-align: center;
+}
+.navigation {
+  padding: 10px;
+  background-color: #c876ff;
+  background-image: url('https://www.transparenttextures.com/patterns/diagmonds-light.png');
+}
+.nav-list {
+  display: flex;
+  justify-content: space-between;
+}
+.nav-link {
+  color: #1f125a;
+  text-decoration: none;
+  font-variant: small-caps;
+  font-size: 24px;
+  font-weight: 500;
+}
+.register-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.login-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.input {
+  width: 300px;
+  height: 42px;
+  padding-left: 10px;
+  margin-bottom: 20px;
+  border: 2px solid #c876ff;
+  border-radius: 5px;
+  outline: none;
+  background: transparent;
+  color: #c876ff;
+  font-size: 18px;
+}
+.button {
+  width: 100px;
+  margin-left: 20px;
+  padding: 5px;
+  font-size: 18px;
+  font-weight: 500;
+  border-radius: 15px;
+  border-color: transparent;
+  outline: none;
+  background-color: #f6b3e6;
+  color: #1f125a;
+}

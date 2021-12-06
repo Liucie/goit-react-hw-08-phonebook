@@ -1,0 +1,17 @@
+.label {
+  font-size: 20px;
+  font-weight: 500;
+  color: #093a3e;
+}
+.input {
+  height: 42px;
+  padding-left: 10px;
+  margin-bottom: 15px;
+  margin-left: 15px;
+  border: 2px solid #c876ff;
+  border-radius: 5px;
+  outline: none;
+  background: transparent;
+  color: #c876ff;
+  font-size: 18px;
+}

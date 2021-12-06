@@ -1,0 +1,21 @@
+.container {
+  background-color: #c876ff;
+  background-image: url('https://www.transparenttextures.com/patterns/diagmonds.png');
+  padding: 20px;
+  color: #f6b3e6;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.button {
+  width: 100px;
+  margin-left: 20px;
+  padding: 5px;
+  font-size: 18px;
+  font-weight: 500;
+  border-radius: 15px;
+  border-color: transparent;
+  outline: none;
+  background-color: #f6b3e6;
+  color: #1f125a;
+}
